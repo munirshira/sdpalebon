@@ -16,12 +16,6 @@ p {
     color: #999;
 }
 
-ul ul a {
-    font-size: 0.9em !important;
-    padding-left: 30px !important;
-    background: #6d7fcc;
-}
-
 a,
 a:hover,
 a:focus {
@@ -119,6 +113,12 @@ a[data-toggle="collapse"] {
     top: 50%;
     right: 20px;
     transform: translateY(-50%);
+}
+
+ul ul a {
+    font-size: 0.9em !important;
+    padding-left: 30px !important;
+    background: #6d7fcc;
 }
 
 ul.CTAs {
